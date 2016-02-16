@@ -1,5 +1,5 @@
 GROUP-NAME:Default Group
 PAIR-NAME:Pair 1
-GET /path/Input1
+GET /path?Input=1
 Content-Type:application/json;charset=UTF8
 
